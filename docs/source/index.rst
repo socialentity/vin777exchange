@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+ViN777 - vin777.exchange - Nhà cái trực tuyến với nhiều phần quà hấp dẫn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`ViN777 <https://vin777.exchange/>`_ cung cấp các trò chơi phù hợp với nhiều độ tuổi khác nhau khi cá cược như Sòng bài online, thể thao, nổ hũ, đá gà... Nhà cái ViN777 trực tuyến còn gửi tặng nhiều phần thưởng ưu đãi dành cho các hội viên của mình. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Được thiết kế phù hợp với nhiều độ tuổi khác nhau, ViN777 không chỉ thu hút bởi sự đa dạng của các trò chơi mà còn bởi những phần thưởng ưu đãi hấp dẫn dành cho hội viên. Với logo và favicon đặc trưng, ViN777 khẳng định vị thế của mình như một nhà cái trực tuyến uy tín và hấp dẫn trong cộng đồng cá cược.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 438 Phạm Văn Đồng, P.Cổ Nhuế, Q.Bắc Từ Liêm, Hà Nội. 
 
-Contents
---------
+Phone: 0943063391
 
-.. toctree::
+Email: info@vin777.exchange
 
-   usage
-   api
+Website: https://vin777.exchange/
+
+#ViN777 #ViN777exchange #nhacaiViN777 #ViN7771com #ViN7771 #TrangchuViN777
